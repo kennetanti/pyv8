@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: irv8
+Version: 0.5.1
+Summary: Python Wrapper for Google V8 Engine
+Home-page: http://code.google.com/p/pyv8/
+Author: Borg Cylor
+Author-email: kennetanti@gmail.com
+License: Apache Software License
+Download-URL: http://code.google.com/p/pyv8/downloads/list
+Description: no gtfo, and support to hosting Google's v8 engine in a python script.
+Platform: x86
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Utilities
